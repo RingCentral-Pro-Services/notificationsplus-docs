@@ -1,6 +1,6 @@
 site_name: Notifications+ Documentation
 site_url: https://example.com/
 nav:
-    - Home: index.md
-    - About: about.md
+    - Getting Started: index.md
+    - User Guide: guide.md
 theme: readthedocs
