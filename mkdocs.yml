@@ -2,6 +2,5 @@ site_name: Notifications+ Documentation
 site_url: https://example.com/
 nav:
     - Getting Started: index.md
-      - Requirements
     - User Guide: guide.md
 theme: readthedocs
