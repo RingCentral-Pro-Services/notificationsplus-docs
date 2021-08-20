@@ -3,18 +3,20 @@ The main **datatable** contains the notifications you create. All notifications 
 ## Columns
 * **Name-** the name of this notification. *Click on the name of a notification to edit its configuration.*
 * **External Number-** the external phone number that triggers the notification action(s).
-* **Direction-** call direction that should trigger the notification.
-* **Delivery Method-** the delivery method(s) of the notification (SMS, email, webhook or Glip).
+* **Direction-** call direction that should trigger the notification (inbound, outbound or both).
+* **Delivery Method-** the delivery method(s) of the notification (SMS, email, webhook or [Glip®](https://app.ringcentral.com)).
 * **Created Date-** the date the notification was created.
-* **Status-** is the notification active or inactive (e.g. will it trigger if conditions are met, on or off).
+* **Status-** toggles the notification between active and inactive states (e.g. will it trigger if conditions are met, on or off).
 
-Sort by Data-table Column
-To change which column is sort and by which order, click the name and of the column you would like to sort to cycle through these options:
+## Sorting
+By default notifications are sorted by most recent in the datatable. To change the sort order of a column click the name of the column you would like to sort. It will cycle through the following options:
 
-Descending (first click)
-Ascending (second click)
-no sort (third click)
-Your notifications will be displayed by most-recent order unless you choose to sort by one of the data-table columns.
+* **Descending-** first click.
+* **Ascending-** second click.
+* **Default-** third click.
+
+## Filtering
+???...
 
 Overflow Icon
 Each notification as an Overflow Icon (three vertical dots) that will open ip with a drop down that presents two options that will either delete or duplicate this notification.
