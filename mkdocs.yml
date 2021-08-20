@@ -3,7 +3,6 @@ site_url: https://notifications-documentation.readthedocs.io/en/latest/
 nav:
     - Getting Started: index.md
     - User Guide:
-      - Layout: user-guide/layout.md
       - Profile Menu: user-guide/profile-menu.md
 theme:
   name: readthedocs
