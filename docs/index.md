@@ -41,3 +41,15 @@ To get started, we'll walkthrough setting up and using an example notification t
 7. When you are finished, click **Next** to confirm and then click **Create** to create the new notification.
 
 8. Let's test it! From the notifications home screen, click the checkbox next to your new notification then click **Simulate**. You should receive an SMS shortly containing the notification. You can use the simulate feature to test any notification you have configured without actually triggering the notification.
+
+## Wrapping Up
+
+This is just one example of the flexibility that [Notifications+](https://notificationsplus.ps.ringcentral.com) offers. Use it to ensure compliance with FCC-mandated [Kari's Law](https://www.fcc.gov/mlts-911-requirements), get alerts when sensitive or inappropriate numbers are called from your account (for example pay-per-call and premium rate numbers) and much more.
+
+[Notifications+](https://notificationsplus.ps.ringcentral.com) is available in the [RingCentral App Gallery](https://www.ringcentral.com/apps/). For any questions please visit the [support page](https://community.ringcentral.com/index.html).
+
+To purchase a subscription once your trial period has expired, please contact your Account Executive or Sales Representative.
+
+[Notifications+](https://notificationsplus.ps.ringcentral.com) *is powered by RingCentral® Professional Services.*
+
+
