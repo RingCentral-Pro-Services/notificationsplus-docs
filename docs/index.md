@@ -1,4 +1,4 @@
-# Getting Started
+# Quick Start
 
 [Notifications+](https://notificationsplus.ps.ringcentral.com) allows you to configure notifications for inbound and outbound call events on your [RingCentral®](https://ringcentral.com) account. Notifications are customizable and delivered in real-time via SMS, email, webhook or [Glip®](https://app.ringcentral.com). A summary of available features includes:
 
@@ -10,13 +10,11 @@
 
 For full documentation visit the [user guide](https://www.???.com/guide).
 
-## Quick Start
-
-### Requirements
+## Requirements
 
 Chrome or Firefox web browser and a [RingCentral®](https://ringcentral.com) account.
 
-### Logging In
+## Logging In
 
 Log in to [Notifications+](https://notificationsplus.ps.ringcentral.com) using your  [RingCentral®](https://ringcentral.com) credentials at the following URL:
 
@@ -24,7 +22,7 @@ Log in to [Notifications+](https://notificationsplus.ps.ringcentral.com) using y
 
 New accounts automatically receive a **free 14-day trial period** upon first login. After the trial period expires, *you must contact your Account Executive or Sales Representative to purchase a subscription* for your account.
 
-### Building Your First Notification
+## Building Your First Notification
 
 After logging in you are presented with the notifications screen. This is where all notifications and their settings are managed. A default **911 Notification** has already been populated for you. If turned on, this default notification will alert you if any user on your RingCentral® account calls 911.
 
