@@ -1,5 +1,5 @@
 site_name: Notifications+ Documentation
-site_url: https://example.com/
+site_url: https://notifications-documentation.readthedocs.io/en/latest/
 nav:
     - Getting Started: index.md
     - User Guide: guide.md
