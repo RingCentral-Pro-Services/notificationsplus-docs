@@ -2,5 +2,6 @@ site_name: Notifications+ Documentation
 site_url: https://notifications-documentation.readthedocs.io/en/latest/
 nav:
     - Getting Started: index.md
-    - User Guide: guide.md
+    - User Guide:
+      - Interface: user-guide/interface.md
 theme: readthedocs
