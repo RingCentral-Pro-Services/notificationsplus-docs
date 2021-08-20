@@ -4,5 +4,6 @@ nav:
     - Getting Started: index.md
     - User Guide:
       - Interface: user-guide/interface.md
+      - Profile Menu: user-guide/profile-menu.md
 theme:
   name: readthedocs

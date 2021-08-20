@@ -2,7 +2,7 @@ The Notifications+ interface is fairly simple and contains several functions to 
 
 The main navigation consists of:
 
-## Profile Icon Menu
+## Profile Menu
 Side-pane navigation (Notifications is the only option)
 Action buttons
 Notifications Data-table
@@ -10,7 +10,7 @@ Data Table Actions
 Notification Information/Editing
 Notification Bulk Editing
 Profile Icon Menu
-The Profile Icon Menu is accessed by clicking on your profile picture in the top right of the screen. If you do no have a picture, you will see a circle with your initials inside. This menu has three (3) options and is used for finding support, accessing the about information, and signing out of the application.
+The Profile Menu is accessed by clicking on your profile picture in the top right of the screen. If you do no have a picture, you will see a circle with your initials inside. This menu has three (3) options and is used for finding support, accessing the about information, and signing out of the application.
 
 Profile Menu Options
 Help center - links to support and documentation.
