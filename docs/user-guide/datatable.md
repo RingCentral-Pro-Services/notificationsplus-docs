@@ -1,12 +1,13 @@
-The main **datatable** contains all relevant information about the notifications you create. All notifications you generate within this application will be displayed here. Here you can see relevant info, turn on/off notifications quickly, and use the the Action buttons  to edit and bulk edit multiple notifications at once.
+The main **datatable** contains the notifications you create. All notifications created will be displayed here. The datatable displays information about each notification, allows you to turn  notifications on or off quickly and use the the action buttons to edit or bulk edit notifications.
 
-Data-table columns:
-Name - the name of this notification and clicking will go into edit mode for that notification.
-External Number - the external number that will engage the notification action.
-Direction - call direction that triggers the notification.
-Delivery Method - which delivery methods does the notification utilize.
-Created Date - date the Notification was created.
-Status (on or off) - is the notification engaged or not and will it trigger if conditions are met.
+## Columns
+* **Name-** the name of this notification. *Click on the name of a notification to edit its configuration.*
+* **External Number-** the external phone number that triggers the notification action(s).
+* **Direction-** call direction that should trigger the notification.
+* **Delivery Method-** the delivery method(s) of the notification (SMS, email, webhook or Glip).
+* **Created Date-** the date the notification was created.
+* **Status-** is the notification active or inactive (e.g. will it trigger if conditions are met, on or off).
+
 Sort by Data-table Column
 To change which column is sort and by which order, click the name and of the column you would like to sort to cycle through these options:
 
