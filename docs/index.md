@@ -1,5 +1,3 @@
-# Getting Started
-
 [Notifications+](https://notificationsplus.ps.ringcentral.com) allows you to configure notifications for inbound and outbound call events on your [RingCentral®](https://ringcentral.com) account. Notifications are customizable and delivered in real-time via SMS, email, webhook or [Glip®](https://app.ringcentral.com). A summary of available features includes:
 
 * **Alerts when sensitive or inappropriate numbers are called** from your account, including who placed the call.
