@@ -10,6 +10,8 @@
 
 See the **quick start** below or visit the [user guide](https://www.???.com/guide) for full documentation.
 
+# Quick Start
+
 ## Requirements
 
 Chrome or Firefox web browser and a [RingCentral®](https://ringcentral.com) account.
