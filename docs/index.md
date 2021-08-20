@@ -8,7 +8,7 @@
 * **Bulk orchestration** of notifications and settings.
 * **Simulation mode** to test notifications without needing to actually trigger them.
 
-For full documentation visit the [user guide](https://www.???.com/guide).
+See the **quick start** below or visit the [user guide](https://www.???.com/guide) for full documentation.
 
 ## Requirements
 
