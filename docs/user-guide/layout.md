@@ -1,4 +1,4 @@
-The Notifications+ interface is fairly simple and contains several functions to help you organize, create, and manage multiple notifications for your RingCentral Office® account.
+The layout of the Notifications+ interface contains several functions to help you organize, create, and manage multiple notifications for your RingCentral Office® account.
 
 The main navigation consists of:
 
