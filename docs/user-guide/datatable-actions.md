@@ -1,0 +1,3 @@
+The **datatable actions** are the primary way to create new notifications and interact with existing notifications. The actions can be found directly above the datatable. *Some actions can be engaged immediately but others require selecting a notification before they will become available.*
+
+under construction...
