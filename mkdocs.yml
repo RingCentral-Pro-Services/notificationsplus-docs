@@ -3,4 +3,4 @@ site_url: https://notifications-documentation.readthedocs.io/en/latest/
 nav:
     - Getting Started: index.md
     - User Guide: guide.md
-theme: material
+theme: readthedocs
