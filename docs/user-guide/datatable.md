@@ -11,42 +11,43 @@ The main **datatable** contains the notifications you create. All notifications 
 ## Sorting
 By default notifications are sorted by most recent in the datatable. To change the sort order of a column click the name of the column you would like to sort. It will cycle through the following options:
 
-* **Descending-** first click.
-* **Ascending-** second click.
-* **Default-** third click.
+* **Descending-** first click
+* **Ascending-** second click
+* **Default-** third click
 
 ## Filtering
 ???...
 
-Overflow Icon
-Each notification as an Overflow Icon (three vertical dots) that will open ip with a drop down that presents two options that will either delete or duplicate this notification.
+## Overflow Menu
+Each row in the datatable has an overflow icon ( ![Overflow Icon](../assets/overflow-icon.svg "Overflow Icon") ) that, when clicked, will open up a dropdown menu with the following options:
 
-Overflow Icon Options
-Edit - edit or modify this notification.
-Duplicate - duplciate this notification.
-This menu is intended as shortcut so you do not have to select the notification, and then the action, to duplicate quickly.
+* **Edit-** edit the configuration of the selected notification.
+* **Duplicate-** duplicate the selected notification.
 
-Data-table pagination
-At the bottom of the data-table you will see the pagination elements. To the left is the page display that allows you to select a page and to the right is the rows per page and total count of notifications.
+*The overflow menu is a shortcut, the same options are available as datatable actions above the datatable.*
 
-Page Display
-Here you can quickly view all pages of the data-table by with clicking on a page number, or clicking on of the buttons displayed to the right or left of the numbers.
+## Pagination
+At the bottom of the datatable are the pagination elements. To the left is the page display that allows you to select a page and to the right are the rows per page and total entries (the total count).
 
-Page display actions:
+### Pagination Options
+Quickly traverse between all of the pages in the datatable by clicking on a page number or by clicking the pagination buttons displayed to the left and right of the page numbers:
 
-First Page - go to the first page.
-Previous page - go to the previous page.
-Next Page - go to the next page.
-Last Page - got to the last page.
-Blank page box - when you have more than 3 pages, an empty page box will appear. Simply enter the page number you want to visit and click outside the box to engage.
-Rows per page
-Click to change the amount of items displayed per page. Options are:
+* ![First Page Icon](../assets/first-page-icon.svg "First Page Icon") first page
+* ![Previous Page Icon](../assets/previous-page-icon.svg "Previous Page Icon") previous page
+* ![Next Page Icon](../assets/next-page-icon.svg "Next Page Icon") next page
+* ![Last Page Icon](../assets/last-page-icon.svg "Last Page Icon") last page
 
-5
-10
-20
-30
-40
-Show All
-Entries
-Displays the total amount of notification items present for your account.
+When there are more than 3 pages, an empty page box will appear. Enter the desired page number and then click outside the box or hit enter to view the specified page.
+
+### Rows Per Page
+Click on the up or down arrows next to the rows per page text to change the number of entries displayed on each page in the datatable. The options are:
+
+* 5
+* 10
+* 20
+* 30
+* 40
+* Show All
+
+### Entries
+Entries displays the total count of existing notifications.
