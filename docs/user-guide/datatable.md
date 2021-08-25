@@ -15,9 +15,6 @@ By default notifications are sorted by most recent in the datatable. To change t
 * **Ascending-** second click
 * **Default-** third click
 
-## Filtering
-???...
-
 ## Overflow Menu
 Each row in the datatable has an overflow icon ( ![Overflow Icon](../assets/overflow-icon.svg "Overflow Icon") ) that, when clicked, will open up a dropdown menu with the following options:
 
@@ -40,14 +37,9 @@ Quickly traverse between all of the pages in the datatable by clicking on a page
 When there are more than 3 pages, an empty page box will appear. Enter the desired page number and then click outside the box or hit enter to quickly view the specified page.
 
 ### Rows Per Page
-Click on the up or down arrows next to the rows per page text to change the number of entries displayed on each page in the datatable. The available options are:
+Click on the up or down arrows next to the **rows per page** text to change the number of entries displayed on each page of the datatable:
 
-* 5
-* 10
-* 20
-* 30
-* 40
-* Show All
+![Rows Per Page](../assets/rows-per-page.png "Rows Per Page")
 
 ### Entries
 Entries displays the total count of existing notifications.
