@@ -53,5 +53,5 @@ The delivery section defines the media to be used to receive the notification(s)
 ## Review
 Review the selected settings for a new notification before finalization. Ensure all settings meet your requirements and click the **Save** button to save the notification.
 
-*Tip:* Use the [simulate](datatable-actions.md) button to test if the notification is working as intended without needing to trigger it.
+*Tip:* Use the **Simulate** [button](datatable-actions.md) to test if the notification is working as intended without needing to trigger it.
 
