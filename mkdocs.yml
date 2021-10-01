@@ -6,5 +6,6 @@ nav:
       - Profile Menu: user-guide/profile-menu.md
       - Datatable: user-guide/datatable.md
       - Datatable Actions: user-guide/datatable-actions.md
+      - Notifications: user-guide/notifications.md
 theme:
   name: readthedocs
