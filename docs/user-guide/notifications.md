@@ -22,12 +22,12 @@ The call direction to the specified phone number that will trigger this notifica
 ## Trigger
 Defines which call objects should trigger this notification, for example what users, extensions or sites will trigger this notification. Users is selected by default. Toggle the trigger switches to enable the different trigger options. Any combination of the available triggers can be used:
 
-### Users
+#### Users
 Users is the most common trigger condition and is selected by default.  If the specified user(s) make inbound or outbound calls to the phone number, the notification will be triggered. Select a single or multiple users from the dropdown menu to build a list of users.
 
 The **All Users** option includes all users present in your [RingCentral®](https://ringcentral.com) account, including yourself.
 
-### Extension Pattern
+#### Extension Pattern
 Specify a pattern to match one or many extensions that can trigger this notification. The extension pattern parameters that can be used are defined below:
 
 *  **Wild Card** - Use an asterisk (\*\) as wild card for any number, for example 6***. In this example, any extension starting with six (6) will be recognized by the pattern.
@@ -37,7 +37,7 @@ Specify a pattern to match one or many extensions that can trigger this notifica
 
 *Tip:* Click into the extension pattern form field to see a guide of example extension patterns.
 
-### Site Extensions
+#### Site Extensions
 Extensions belonging to the selected site(s) will trigger the notification. A single site or multiple sites can be defined.
 
 ## Delivery
